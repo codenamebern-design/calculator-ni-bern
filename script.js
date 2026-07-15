@@ -1,3 +1,4 @@
+// Get the display element
 const display = document.getElementById("display");
 
 ShowOnDisplay = (input) => {
